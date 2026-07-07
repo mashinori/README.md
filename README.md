@@ -17,25 +17,12 @@
 
 <br>
 
-- currently learning **Luau, Python, and C++**.
+- currently learning **luau, python, and c++**.
 
 - previous experiences:
-  - Roblox Studio & Luau development (2018 - Present)
-  - Frosty Serverside project (2019/2020 - discontinued)
-  - Minecraft server administration & configuration (2026)
-  - Browser extension and software experimentation
-
-<br>
-
-- 🐾 Looking to network, collaborate, and meet other developers!
-
-<br>
-
-- ☕ Interests: Cats, Coffee, Coding, Reverse Engineering, Automation
-
-<br>
-
-- 🎮 Hobbies: Programming, Anime/Manga, Games, Discord, and exploring random projects
+  - roblox studio & luau development (2018 - present)
+  - frosty serverside project (2019/2020 - discontinued)
+  - browser extension and software experimentation
 
 <br>
 
