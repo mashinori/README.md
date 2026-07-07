@@ -48,20 +48,12 @@
 
 <h2><strong>current OS:</strong></h2>
 
-<img src="https://skillicons.dev/icons?i=windows,linux" alt="current OS logos">
+<img src="https://skillicons.dev/icons?i=windows,arch" alt="current OS logos">
 
 </div>
 
 
 <div align="center">
-
-<h2>
-<strong>My Github Stats</strong>
-</h2>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=mashinori&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Github trophies"/>
-
 
 <br><br>
 
