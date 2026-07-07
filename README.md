@@ -1,5 +1,3 @@
-Hi, I'm mashinori (mashiru)!
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mashinori&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
