@@ -1,9 +1,7 @@
 <p align="center">
+    <a href="https://daily.dev/mashiru"><img src="https://api.daily.dev/devcards/v2/lznnJmpddeoYd0CNPgvG1.png?type=default&r=7fu" width="356" alt="mashiru's Dev Card"/></a>
     <img src="https://komarev.com/ghpvc/?username=mashinori&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
-
-<a href="https://daily.dev/mashiru"><img src="https://api.daily.dev/devcards/v2/lznnJmpddeoYd0CNPgvG1.png?type=default&r=7fu" width="356" alt="mashiru's Dev Card"/></a>
-
 <h2 align="center"> professional larper</h2>
 
 * 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
