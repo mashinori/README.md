@@ -32,6 +32,9 @@
 
 <br>
 
+<p align="center"> 
+  <img src="aesthetic_pleasing.gif" alt="japan o_o" /> 
+</p>
 
 <div align="center">
 
