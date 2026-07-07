@@ -17,7 +17,7 @@
 - 🌱 currently learning **luau, python, and c++**.
 
 - 📸 things i've messed around with:
-- 
+
   - roblox studio & luau development (2018 - 2026)
   - server management, configuration, and troubleshooting
   - browser extensions & software experimentation
